@@ -1,0 +1,5 @@
+footer_reply_button_size: 24px
+
+footer_reply_button_weight:
+  default: normal
+  description: normal, bold, etc.
